@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>A Parallel, Block Greedy Method for Sparse Inverse Covariance Estimation for Ultra-high Dimensions | AISTATS 2013 | JMLR W&amp;CP</title>
+
+		<!-- Stylesheet -->
+		<link rel="stylesheet" type="text/css" href="../css/jmlr.css">
+
+		<!-- MathJax -->
+		<script type="text/x-mathjax-config">
+  			MathJax.Hub.Config({tex2jax: {inlineMath: [['\\(','\\)']]}});
+		</script>
+		<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+		</script>
+
+		<!-- Metadata -->
+		<!-- Google Scholar Meta Data -->
+
+<meta name="citation_title" content="A Parallel, Block Greedy Method for Sparse Inverse Covariance Estimation for Ultra-high Dimensions">
+<meta name="citation_author" content="Kambadur, Prabhanjan">
+<meta name="citation_author" content="Lozano, Aurelie">
+
+<meta name="citation_publication_date" content="2013">
+<meta name="citation_conference_title" content="Proceedings of the Sixteenth International Conference on Artificial Intelligence and Statistics">
+<meta name="citation_firstpage" content="351">
+<meta name="citation_lastpage" content="359">
+<meta name="citation_pdf_url" content="http://jmlr.org/proceedings/papers/v31/kambadur13a.pdf">
+
+
+    </head>
+    <body>
+
+	<div id="fixed">
+<a align="right" href="http://www.jmlr.org/" target="_top"><img class="jmlr" src="../img/jmlr.jpg" align="right" border="0"></a> 
+<p><br><br>
+</p><p align="right"> <a href="http://www.jmlr.org/"> Home Page </a> 
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/papers"> Papers
+ </a> 
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/author-info.html"> Submissions </a> 
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/news.html"> 
+News </a> 
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/scope.html"> 
+Scope </a>
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/editorial-board.html"> Editorial Board </a>
+ 
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/announcements.html"> Announcements </a>
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/proceedings"> 
+Proceedings </a>
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/mloss">Open 
+Source Software</a>
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/search-jmlr.html"> Search </a>
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/manudb"> Login </a></p>
+
+<br><br>
+<p align="right"> <a href="http://jmlr.csail.mit.edu/jmlr.xml"> 
+<img src="../img/RSS.gif" class="rss" alt="RSS Feed">
+</a>
+
+</p>
+	</div>
+
+	<div id="content">
+		<h1>A Parallel, Block Greedy Method for Sparse Inverse Covariance Estimation for Ultra-high Dimensions</h1>
+
+<div id="authors">Prabhanjan Kambadur, Aurelie Lozano</div>;
+<div id="info">JMLR W&amp;CP 31 : 351–359, 2013</div>
+
+
+
+<h2>Abstract</h2>
+<div id="abstract">
+	Discovering the graph structure of a Gaussian Markov Random Field is an important problem in application areas such as computational biology and atmospheric sciences. This task, which translates to estimating the sparsity pattern of the inverse covariance matrix, has been extensively studied in the literature. However, the existing approaches are unable to handle ultra-high dimensional datasets and there is a crucial need to develop methods that are both highly scalable and memory-efficient. In this paper, we present GINCO, a blocked greedy method for sparse inverse covariance matrix estimation. We also present detailed description of a highly-scalable and memory-efficient implementation of GINCO, which is able to operate on both shared- and distributed-memory architectures. Our implementation is able recover the sparsity pattern of 25,000 vertex random and chain graphs with 87% and 84% accuracy in <span class="math">\(\le\)</span> 5 minutes using <span class="math">\(\le\)</span> 10GB of memory on a single 8-core machine. Furthermore, our method is statistically consistent in recovering the sparsity pattern of the inverse covariance matrix, which we demonstrate through extensive empirical studies.
+</div>
+
+<h2>Related Material</h2>
+<div id="extras">
+	<ul>
+		<li><a href="kambadur13a.pdf">Download PDF</a></li>
+		<li><a href="kambadur13a-supp.pdf">Supplementary (PDF)</a></li>
+
+	</ul>
+</div>
+
+	</div>
+
+    </body>
+</html>
