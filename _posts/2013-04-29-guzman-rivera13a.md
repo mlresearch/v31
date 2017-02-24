@@ -15,6 +15,7 @@ abstract: Training of Structural SVMs involves solving a large Quadratic Program
   that the proposed approach can lead to significant computational savings, e.g.,
   ∼28% reduction in training time.
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: guzman-rivera13a
 month: 0
 firstpage: 316

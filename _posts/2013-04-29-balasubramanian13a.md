@@ -16,6 +16,7 @@ abstract: Feature screening is a key step in handling ultrahigh dimensional data
   demonstrate its advantages and superiority over other approaches on several synthetic
   and real data sets.
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: balasubramanian13a
 month: 0
 firstpage: 126

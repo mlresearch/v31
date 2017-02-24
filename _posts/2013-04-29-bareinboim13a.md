@@ -12,6 +12,7 @@ abstract: 'This paper considers the problem of transferring experimental finding
   algorithm for computing the transport formula, that is, a way of fusing observational
   and experimental information to synthesize an unbiased estimate of the desired effects. '
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: bareinboim13a
 month: 0
 firstpage: 135

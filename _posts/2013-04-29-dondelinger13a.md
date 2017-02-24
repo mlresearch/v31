@@ -16,6 +16,7 @@ abstract: Parameter inference in mechanistic models based on systems of coupled 
   ODE integration approach, both in terms of parameter inference accuracy and in terms
   of computational efficiency.
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: dondelinger13a
 month: 0
 firstpage: 216

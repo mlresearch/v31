@@ -1,5 +1,3 @@
-# Site settings
-# Auto generated from v31.bib
 ---
 booktitle: Proceedings of the Sixteenth International Conference on Artificial Intelligence
   and Statistics
@@ -15,6 +13,7 @@ sections:
 - name: default
   title: 'Part II: Regular Papers'
 layout: proceedings
+series: Proceedings of Machine Learning Research
 id: aistats2013
 month: 0
 abstract: ''
@@ -48,3 +47,5 @@ conference:
 analytics:
   google:
     tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from v31.bib

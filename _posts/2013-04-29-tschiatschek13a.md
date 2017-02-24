@@ -14,6 +14,7 @@ abstract: Maximum margin Bayesian networks (MMBNs) are Bayesian networks with di
   indicates that the current formulations of MMBNs may be deficient. Furthermore,
   experimental results on the generalization performance are presented.
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: tschiatschek13a
 month: 0
 firstpage: 590

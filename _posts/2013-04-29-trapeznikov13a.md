@@ -17,6 +17,7 @@ abstract: In this paper we develop a framework for a sequential decision making 
   of the multi-stage system to quantify the generalization error. We compare our approach
   to alternative strategies on several multi-class real world datasets.
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: trapeznikov13a
 month: 0
 firstpage: 581
