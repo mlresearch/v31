@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v31/balasubramanian13a/balasubramanian13a.pdf
+pdf: http://proceedings.mlr.press/v31/balasubramanian13a.pdf
 supplementary: Supplementary:balasubramanian13a-supp.pdf
 title: Ultrahigh Dimensional Feature Screening via RKHS Embeddings
 abstract: Feature screening is a key step in handling ultrahigh dimensional data sets

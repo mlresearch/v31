@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v31/bareinboim13a/bareinboim13a.pdf
+pdf: http://proceedings.mlr.press/v31/bareinboim13a.pdf
 title: 'Meta-Transportability of Causal Effects: A Formal Approach'
 abstract: 'This paper considers the problem of transferring experimental findings
   learned from multiple heterogeneous  domains to a different environment, in which

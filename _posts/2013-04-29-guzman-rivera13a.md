@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v31/guzman-rivera13a/guzman-rivera13a.pdf
+pdf: http://proceedings.mlr.press/v31/guzman-rivera13a.pdf
 supplementary: Supplementary:guzman-rivera13a-supp.pdf
 title: 'DivMCuts: Faster Training of Structural SVMs with Diverse M-Best Cutting-Planes'
 abstract: Training of Structural SVMs involves solving a large Quadratic Program (QP).

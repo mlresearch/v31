@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v31/tschiatschek13a/tschiatschek13a.pdf
+pdf: http://proceedings.mlr.press/v31/tschiatschek13a.pdf
 supplementary: Supplementary:tschiatschek13a-supp.pdf
 title: On the Asymptotic Optimality of Maximum Margin Bayesian Networks
 abstract: Maximum margin Bayesian networks (MMBNs) are Bayesian networks with discriminatively

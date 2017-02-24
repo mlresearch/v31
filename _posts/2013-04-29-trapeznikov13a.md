@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v31/trapeznikov13a/trapeznikov13a.pdf
+pdf: http://proceedings.mlr.press/v31/trapeznikov13a.pdf
 supplementary: Supplementary:trapeznikov13a-supp.pdf
 title: Supervised Sequential Classification Under Budget Constraints
 abstract: In this paper we develop a framework for a sequential decision making under
