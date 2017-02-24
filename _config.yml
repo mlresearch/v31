@@ -1,0 +1,50 @@
+# Site settings
+# Auto generated from v31.bib
+---
+booktitle: Proceedings of the Sixteenth International Conference on Artificial Intelligence
+  and Statistics
+shortname: AISTATS
+year: '2013'
+volume: 31
+published: 2013-04-29
+start: 2013-04-29
+end: 2013-05-01
+sections:
+- name: notable
+  title: 'Part I: Notable Papers'
+- name: default
+  title: 'Part II: Regular Papers'
+layout: proceedings
+id: aistats2013
+month: 0
+abstract: ''
+editor:
+- given: Carlos M.
+  family: Carvalho
+- given: Pradeep
+  family: Ravikumar
+title: Proceedings of the Sixteenth International Conference on Artificial Intelligence
+  and Statistics
+email: ''
+description: Proceedings of the Sixteenth International Conference on Artificial Intelligence
+  and Statistics, Scottsdale, Arizona, USA
+url: http://proceedings.mlr.press
+baseurl: "/v31"
+twitter_username: mlresearch
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v31
+conference:
+  name: Artificial Intelligence and Statistics
+  url: 
+  location: Scottsdale, Arizona, USA
+  dates:
+  - 2013-04-29
+  - 2013-04-30
+  - 2013-05-01
+analytics:
+  google:
+    tracking_id: UA-92432422-1
