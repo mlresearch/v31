@@ -15,6 +15,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: bareinboim13a
 month: 0
+tex_title: 'Meta-Transportability of Causal Effects: A Formal Approach'
 firstpage: 135
 lastpage: 143
 page: 135-143

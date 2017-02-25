@@ -17,12 +17,13 @@ series: Proceedings of Machine Learning Research
 id: aistats2013
 month: 0
 abstract: ''
+tex_title: 
+title: Proceedings of Machine Learning Research
 editor:
 - given: Carlos M.
   family: Carvalho
 - given: Pradeep
   family: Ravikumar
-title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Sixteenth International Conference on Artificial Intelligence and Statistics
     Held in Scottsdale, Arizona, USA on 29 April to 01 May 2013

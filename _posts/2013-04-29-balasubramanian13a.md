@@ -19,6 +19,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: balasubramanian13a
 month: 0
+tex_title: Ultrahigh Dimensional Feature Screening via RKHS Embeddings
 firstpage: 126
 lastpage: 134
 page: 126-134

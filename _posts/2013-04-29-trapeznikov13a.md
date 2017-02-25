@@ -20,6 +20,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: trapeznikov13a
 month: 0
+tex_title: Supervised Sequential Classification Under Budget Constraints
 firstpage: 581
 lastpage: 589
 page: 581-589

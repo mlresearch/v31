@@ -17,6 +17,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: tschiatschek13a
 month: 0
+tex_title: On the Asymptotic Optimality of Maximum Margin Bayesian Networks
 firstpage: 590
 lastpage: 598
 page: 590-598

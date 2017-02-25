@@ -18,6 +18,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: guzman-rivera13a
 month: 0
+tex_title: 'DivMCuts: Faster Training of Structural SVMs with Diverse M-Best Cutting-Planes'
 firstpage: 316
 lastpage: 324
 page: 316-324

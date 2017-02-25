@@ -19,6 +19,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: dondelinger13a
 month: 0
+tex_title: ODE parameter inference using adaptive gradient matching with Gaussian
+  processes
 firstpage: 216
 lastpage: 228
 page: 216-228
