@@ -22,11 +22,20 @@ editor:
   family: Carvalho
 - given: Pradeep
   family: Ravikumar
-title: Proceedings of the Sixteenth International Conference on Artificial Intelligence
-  and Statistics
-email: ''
-description: Proceedings of the Sixteenth International Conference on Artificial Intelligence
-  and Statistics, Scottsdale, Arizona, USA
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Sixteenth International Conference on Artificial Intelligence and Statistics
+    Held in Scottsdale, Arizona, USA on 29 April to 01 May 2013
+
+  Published as Volume 31 by the Proceedings of Machine Learning Research on 29 April 2013.
+
+  Volume Edited by:
+    Carlos M. Carvalho
+    Pradeep Ravikumar
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
 url: http://proceedings.mlr.press
 baseurl: "/v31"
 twitter_username: mlresearch
@@ -36,6 +45,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v31
+email: ''
 conference:
   name: Artificial Intelligence and Statistics
   url: http://www.aistats.org/aistats2013/
