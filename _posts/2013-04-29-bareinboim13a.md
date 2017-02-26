@@ -19,7 +19,8 @@ tex_title: 'Meta-Transportability of Causal Effects: A Formal Approach'
 firstpage: 135
 lastpage: 143
 page: 135-143
-sections: 
+order: 135
+cycles: false
 author:
 - given: Elias
   family: Bareinboim

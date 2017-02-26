@@ -1,6 +1,6 @@
 ---
 pdf: http://proceedings.mlr.press/v31/trapeznikov13a.pdf
-supplementary: Supplementary:trapeznikov13a-supp.pdf
+supplementary: http://proceedings.mlr.press/v31/trapeznikov13a-supp.pdf
 title: Supervised Sequential Classification Under Budget Constraints
 abstract: In this paper we develop a framework for a sequential decision making under
   budget constraints for multi-class classification. In many classification systems,
@@ -24,7 +24,8 @@ tex_title: Supervised Sequential Classification Under Budget Constraints
 firstpage: 581
 lastpage: 589
 page: 581-589
-sections: 
+order: 581
+cycles: false
 author:
 - given: Kirill
   family: Trapeznikov

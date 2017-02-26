@@ -1,6 +1,6 @@
 ---
 pdf: http://proceedings.mlr.press/v31/tschiatschek13a.pdf
-supplementary: Supplementary:tschiatschek13a-supp.pdf
+supplementary: http://proceedings.mlr.press/v31/tschiatschek13a-supp.pdf
 title: On the Asymptotic Optimality of Maximum Margin Bayesian Networks
 abstract: Maximum margin Bayesian networks (MMBNs) are Bayesian networks with discriminatively
   optimized parameters. They have shown good classification performance in various
@@ -21,7 +21,8 @@ tex_title: On the Asymptotic Optimality of Maximum Margin Bayesian Networks
 firstpage: 590
 lastpage: 598
 page: 590-598
-sections: 
+order: 590
+cycles: false
 author:
 - given: Sebastian
   family: Tschiatschek

@@ -24,7 +24,8 @@ tex_title: ODE parameter inference using adaptive gradient matching with Gaussia
 firstpage: 216
 lastpage: 228
 page: 216-228
-sections: 
+order: 216
+cycles: false
 author:
 - given: Frank
   family: Dondelinger

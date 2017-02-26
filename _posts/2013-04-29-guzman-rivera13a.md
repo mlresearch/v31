@@ -1,6 +1,6 @@
 ---
 pdf: http://proceedings.mlr.press/v31/guzman-rivera13a.pdf
-supplementary: Supplementary:guzman-rivera13a-supp.pdf
+supplementary: http://proceedings.mlr.press/v31/guzman-rivera13a-supp.pdf
 title: 'DivMCuts: Faster Training of Structural SVMs with Diverse M-Best Cutting-Planes'
 abstract: Training of Structural SVMs involves solving a large Quadratic Program (QP).
   One popular method for solving this QP is a cutting-plane approach, where the most
@@ -22,7 +22,8 @@ tex_title: 'DivMCuts: Faster Training of Structural SVMs with Diverse M-Best Cut
 firstpage: 316
 lastpage: 324
 page: 316-324
-sections: 
+order: 316
+cycles: false
 author:
 - given: Abner
   family: Guzman-Rivera
